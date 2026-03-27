@@ -1,8 +1,8 @@
-<h2 align="center">Hi, I'm Ahmed Ab 👋</h2>
+<h1 align="center">Hi, I'm Ahmed Ab 👋</h1>
 
 ###
 
-<h3 align="center">SWE Student | Full Stack Developer | Agentic AI Enthusiast</h3>
+<h2 align="center">SWE Student | Full Stack Developer | Agentic AI Enthusiast</h2>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🔥 Coding Activity :</p>
+<h3 align="left">🔥 Coding Activity :</h3>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">⚙️ Technical Skills & Tools :</p>
+<h3 align="left">⚙️ Technical Skills & Tools :</h3>
 
 ###
 
